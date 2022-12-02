@@ -1,0 +1,1 @@
+<?php $用户名='vience'; $密码='vience6';?>
