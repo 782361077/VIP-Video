@@ -62,7 +62,7 @@ function dihejk() {
 			<a href=""><img src="<?php echo $config['logo']?>"/></a>
 		</div>
 		<ul>
-			<li><a href="https://www.wenytao.com/" target="_blank" >IT屋博客</a></li>
+			<li><a href="https://www.wenytao.com/" target="_blank" >IT屋博客111</a></li>
 			<?php echo $config['link']?>
 		</ul>
 	</div>
